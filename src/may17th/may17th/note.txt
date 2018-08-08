@@ -1,0 +1,5 @@
+app1	:	litterals, println and print
+app2	:	local variables
+app3	:	unary operators
+app4	:	boolean operators along with unary operators
+app5	:	if-blocks

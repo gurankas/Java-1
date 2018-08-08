@@ -1,0 +1,11 @@
+package section1.subsection4;
+class A 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(true);
+		System.out.println(false);
+		System.out.println(!true);
+		System.out.println(!false);
+	}
+}
